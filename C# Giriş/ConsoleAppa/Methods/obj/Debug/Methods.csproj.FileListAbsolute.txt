@@ -1,0 +1,6 @@
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Methods\bin\Debug\Methods.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Methods\bin\Debug\Methods.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Methods\bin\Debug\Methods.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Methods\obj\Debug\Methods.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,11 @@
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleAppa\Console_DataTypes\bin\Debug\Console_DataTypes.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleAppa\Console_DataTypes\bin\Debug\Console_DataTypes.exe
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleAppa\Console_DataTypes\bin\Debug\Console_DataTypes.pdb
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleAppa\Console_DataTypes\obj\Debug\Console_DataTypes.exe
+c:\users\ba\documents\visual studio 2013\Projects\ConsoleAppa\Console_DataTypes\obj\Debug\Console_DataTypes.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Console_DataTypes\bin\Debug\Console_DataTypes.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Console_DataTypes\bin\Debug\Console_DataTypes.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Console_DataTypes\bin\Debug\Console_DataTypes.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Console_DataTypes\obj\Debug\02_Console_DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Console_DataTypes\obj\Debug\Console_DataTypes.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Console_DataTypes\obj\Debug\Console_DataTypes.pdb

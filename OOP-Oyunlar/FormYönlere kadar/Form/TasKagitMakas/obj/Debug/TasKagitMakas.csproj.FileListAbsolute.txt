@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\obj\Debug\TasKagitMakas.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\TasKagitMakas\obj\Debug\TasKagitMakas.pdb

@@ -1,0 +1,6 @@
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\EtutDebugging\EtutDebugging\bin\Debug\EtutDebugging.exe.config
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\EtutDebugging\EtutDebugging\obj\Debug\EtutDebugging.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\EtutDebugging\EtutDebugging\bin\Debug\EtutDebugging.exe
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\EtutDebugging\EtutDebugging\bin\Debug\EtutDebugging.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\EtutDebugging\EtutDebugging\obj\Debug\EtutDebugging.exe
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\EtutDebugging\EtutDebugging\obj\Debug\EtutDebugging.pdb

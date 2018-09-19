@@ -1,0 +1,13 @@
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.exe.config
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.pdb
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.pdb
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.exe.config
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.exe
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.pdb
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.exe
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.pdb
+C:\Users\BA\Desktop\c#\Marathon 160817\Marathon 160817\Part_6_c\bin\Debug\Part_6_c.exe.config
+C:\Users\BA\Desktop\c#\Marathon 160817\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.exe
+C:\Users\BA\Desktop\c#\Marathon 160817\Marathon 160817\Part_6_c\obj\Debug\Part_6_c.pdb

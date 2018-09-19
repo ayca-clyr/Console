@@ -1,0 +1,6 @@
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\09_Console_Arrays\bin\Debug\09_Console_Arrays.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\09_Console_Arrays\bin\Debug\09_Console_Arrays.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\09_Console_Arrays\bin\Debug\09_Console_Arrays.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\09_Console_Arrays\obj\Debug\09_Console_Arrays.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\09_Console_Arrays\obj\Debug\09_Console_Arrays.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\09_Console_Arrays\obj\Debug\09_Console_Arrays.csprojResolveAssemblyReference.cache

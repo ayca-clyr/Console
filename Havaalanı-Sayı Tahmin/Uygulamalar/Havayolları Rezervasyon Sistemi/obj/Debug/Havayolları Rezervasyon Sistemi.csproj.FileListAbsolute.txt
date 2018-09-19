@@ -1,0 +1,6 @@
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Havayolları Rezervasyon Sistemi\bin\Debug\Havayolları Rezervasyon Sistemi.exe.config
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Havayolları Rezervasyon Sistemi\bin\Debug\Havayolları Rezervasyon Sistemi.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Havayolları Rezervasyon Sistemi\bin\Debug\Havayolları Rezervasyon Sistemi.pdb
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Havayolları Rezervasyon Sistemi\obj\Debug\Havayolları Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Havayolları Rezervasyon Sistemi\obj\Debug\Havayolları Rezervasyon Sistemi.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Havayolları Rezervasyon Sistemi\obj\Debug\Havayolları Rezervasyon Sistemi.pdb

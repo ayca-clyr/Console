@@ -1,0 +1,5 @@
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.exe.config
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_c\bin\Debug\Part_5_c.pdb
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_c\obj\Debug\Part_5_c.pdb

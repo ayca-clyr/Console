@@ -1,0 +1,6 @@
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Şifre Gizleme\bin\Debug\Şifre Gizleme.exe.config
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Şifre Gizleme\bin\Debug\Şifre Gizleme.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Şifre Gizleme\bin\Debug\Şifre Gizleme.pdb
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Şifre Gizleme\obj\Debug\Şifre Gizleme.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Şifre Gizleme\obj\Debug\Şifre Gizleme.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Şifre Gizleme\obj\Debug\Şifre Gizleme.pdb

@@ -1,0 +1,5 @@
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\Ondalıklı-Roma\bin\Debug\Ondalıklı-Roma.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\Ondalıklı-Roma\bin\Debug\Ondalıklı-Roma.exe
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\Ondalıklı-Roma\bin\Debug\Ondalıklı-Roma.pdb
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\Ondalıklı-Roma\obj\Debug\Ondalıklı-Roma.exe
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\Ondalıklı-Roma\obj\Debug\Ondalıklı-Roma.pdb

@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\160822 RomaNumerals\160822 RomaNumerals - Roma --10\bin\Debug\160822 RomaNumerals - Roma --10.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160822 RomaNumerals\160822 RomaNumerals - Roma --10\bin\Debug\160822 RomaNumerals - Roma --10.exe
+c:\users\ba\documents\visual studio 2013\Projects\160822 RomaNumerals\160822 RomaNumerals - Roma --10\bin\Debug\160822 RomaNumerals - Roma --10.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160822 RomaNumerals\160822 RomaNumerals - Roma --10\obj\Debug\160822 RomaNumerals - Roma --10.exe
+c:\users\ba\documents\visual studio 2013\Projects\160822 RomaNumerals\160822 RomaNumerals - Roma --10\obj\Debug\160822 RomaNumerals - Roma --10.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160822 RomaNumerals\160822 RomaNumerals - Roma --10\obj\Debug\160822 RomaNumerals - Roma --10.csprojResolveAssemblyReference.cache

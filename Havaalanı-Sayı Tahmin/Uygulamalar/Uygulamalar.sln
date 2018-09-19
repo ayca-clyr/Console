@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayı Çözümleme", "Uygulama_1\Sayı Çözümleme.csproj", "{78AD4696-F6D8-4B87-9EBA-5C61A59ACC06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayı Tahmini Oyunu", "Uygulama_2\Sayı Tahmini Oyunu.csproj", "{1CCF3EA1-D6F8-490A-995A-C028F1934125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{39B792EC-DD64-4738-9CC0-7B44196A789C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otopark Ücret Hesaplama", "Otopark Ücret Hesaplama\Otopark Ücret Hesaplama.csproj", "{6EA888D0-99D8-411E-9167-0AD2531188EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havayolları Rezervasyon Sistemi", "Havayolları Rezervasyon Sistemi\Havayolları Rezervasyon Sistemi.csproj", "{76DC8176-DF25-4C57-B4B3-55886325DB5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Şifre Gizleme", "Şifre Gizleme\Şifre Gizleme.csproj", "{90C3F2F3-3D9F-4476-A14C-D08D47E31D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome-Stringle", "ConsoleApplication2\Palindrome-Stringle.csproj", "{38EF2400-037F-486B-A65D-221CA9B4DB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78AD4696-F6D8-4B87-9EBA-5C61A59ACC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AD4696-F6D8-4B87-9EBA-5C61A59ACC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AD4696-F6D8-4B87-9EBA-5C61A59ACC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AD4696-F6D8-4B87-9EBA-5C61A59ACC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCF3EA1-D6F8-490A-995A-C028F1934125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCF3EA1-D6F8-490A-995A-C028F1934125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCF3EA1-D6F8-490A-995A-C028F1934125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCF3EA1-D6F8-490A-995A-C028F1934125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B792EC-DD64-4738-9CC0-7B44196A789C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B792EC-DD64-4738-9CC0-7B44196A789C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B792EC-DD64-4738-9CC0-7B44196A789C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B792EC-DD64-4738-9CC0-7B44196A789C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA888D0-99D8-411E-9167-0AD2531188EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA888D0-99D8-411E-9167-0AD2531188EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA888D0-99D8-411E-9167-0AD2531188EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA888D0-99D8-411E-9167-0AD2531188EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DC8176-DF25-4C57-B4B3-55886325DB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DC8176-DF25-4C57-B4B3-55886325DB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DC8176-DF25-4C57-B4B3-55886325DB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DC8176-DF25-4C57-B4B3-55886325DB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C3F2F3-3D9F-4476-A14C-D08D47E31D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C3F2F3-3D9F-4476-A14C-D08D47E31D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C3F2F3-3D9F-4476-A14C-D08D47E31D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C3F2F3-3D9F-4476-A14C-D08D47E31D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EF2400-037F-486B-A65D-221CA9B4DB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EF2400-037F-486B-A65D-221CA9B4DB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EF2400-037F-486B-A65D-221CA9B4DB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EF2400-037F-486B-A65D-221CA9B4DB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

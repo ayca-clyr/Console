@@ -1,0 +1,6 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\Projects 160819\Projects_1\bin\Debug\Projects_1.exe.config
+c:\users\ferhat\documents\visual studio 2015\Projects\Projects 160819\Projects_1\obj\Debug\Projects_1.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\Projects 160819\Projects_1\bin\Debug\Projects_1.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\Projects 160819\Projects_1\bin\Debug\Projects_1.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Projects 160819\Projects_1\obj\Debug\Projects_1.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\Projects 160819\Projects_1\obj\Debug\Projects_1.pdb

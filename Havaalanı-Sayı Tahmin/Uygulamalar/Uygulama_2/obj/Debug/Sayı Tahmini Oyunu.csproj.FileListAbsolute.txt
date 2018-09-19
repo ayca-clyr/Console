@@ -1,0 +1,18 @@
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.exe
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_2\obj\Debug\Uygulama_2.exe
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_2\obj\Debug\Uygulama_2.pdb
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.exe.config
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_2\obj\Debug\Uygulama_2.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_2\obj\Debug\Uygulama_2.pdb
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_2\obj\Debug\Sayı Tahmini Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160819_Projects\Uygulamalar\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160819_Projects\Uygulamalar\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.exe
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160819_Projects\Uygulamalar\Uygulamalar\Uygulama_2\bin\Debug\Uygulama_2.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160819_Projects\Uygulamalar\Uygulamalar\Uygulama_2\obj\Debug\Sayı Tahmini Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160819_Projects\Uygulamalar\Uygulamalar\Uygulama_2\obj\Debug\Sayı Tahmini Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160819_Projects\Uygulamalar\Uygulamalar\Uygulama_2\obj\Debug\Uygulama_2.exe
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160819_Projects\Uygulamalar\Uygulamalar\Uygulama_2\obj\Debug\Uygulama_2.pdb

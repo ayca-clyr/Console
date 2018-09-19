@@ -1,0 +1,7 @@
+c:\users\ba\documents\visual studio 2013\Projects\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.exe.config
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.exe.config
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.exe
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_a\bin\Debug\Part_4_a.pdb
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.exe
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_a\obj\Debug\Part_4_a.pdb

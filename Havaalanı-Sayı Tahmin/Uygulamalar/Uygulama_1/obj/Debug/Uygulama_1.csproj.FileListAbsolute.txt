@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_1\bin\Debug\Uygulama_1.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_1\bin\Debug\Uygulama_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_1\bin\Debug\Uygulama_1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_1\obj\Debug\Uygulama_1.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_1\obj\Debug\Uygulama_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\Uygulamalar\Uygulama_1\obj\Debug\Uygulama_1.pdb

@@ -1,0 +1,13 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\bin\Debug\Indirme.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\bin\Debug\Indirme.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\bin\Debug\Indirme.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\obj\Debug\Indirme.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\obj\Debug\Indirme.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\obj\Debug\Indirme.Indirme.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\obj\Debug\Indirme.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\obj\Debug\Indirme.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\obj\Debug\Indirme.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\Indirme\obj\Debug\Indirme.pdb
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Indirme\bin\Debug\Indirme.exe.config
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Indirme\obj\Debug\Indirme.exe
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Indirme\obj\Debug\Indirme.pdb

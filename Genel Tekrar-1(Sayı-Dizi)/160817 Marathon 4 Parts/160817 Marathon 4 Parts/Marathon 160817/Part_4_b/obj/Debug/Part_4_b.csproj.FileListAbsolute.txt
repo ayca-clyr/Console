@@ -1,0 +1,6 @@
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_b\bin\Debug\Part_4_b.exe.config
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_b\obj\Debug\Part_4_b.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_b\bin\Debug\Part_4_b.exe
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_b\bin\Debug\Part_4_b.pdb
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_b\obj\Debug\Part_4_b.exe
+C:\Users\Bilal\Downloads\160817 Marathon 4 Parts\160817 Marathon 4 Parts\Marathon 160817\Part_4_b\obj\Debug\Part_4_b.pdb

@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\Form\02_OOP\bin\Debug\02_OOP.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Form\02_OOP\bin\Debug\02_OOP.exe
+c:\users\ba\documents\visual studio 2013\Projects\Form\02_OOP\bin\Debug\02_OOP.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Form\02_OOP\obj\Debug\02_OOP.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Form\02_OOP\obj\Debug\02_OOP.exe
+c:\users\ba\documents\visual studio 2013\Projects\Form\02_OOP\obj\Debug\02_OOP.pdb

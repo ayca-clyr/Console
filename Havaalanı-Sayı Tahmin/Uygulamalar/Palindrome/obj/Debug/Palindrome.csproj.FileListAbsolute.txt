@@ -1,0 +1,6 @@
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Palindrome\obj\Debug\Palindrome.pdb

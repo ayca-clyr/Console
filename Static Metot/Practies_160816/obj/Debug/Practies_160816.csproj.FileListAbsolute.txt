@@ -1,0 +1,6 @@
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Practies_160816\bin\Debug\Practies_160816.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Practies_160816\bin\Debug\Practies_160816.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Practies_160816\bin\Debug\Practies_160816.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Practies_160816\obj\Debug\Practies_160816.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Practies_160816\obj\Debug\Practies_160816.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\Practies_160816\obj\Debug\Practies_160816.pdb

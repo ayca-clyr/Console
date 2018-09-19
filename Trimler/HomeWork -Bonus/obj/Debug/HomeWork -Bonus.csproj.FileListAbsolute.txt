@@ -1,0 +1,9 @@
+c:\users\ba\documents\visual studio 2013\Projects\HomeWork -Bonus\HomeWork -Bonus\bin\Debug\HomeWork -Bonus.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\HomeWork -Bonus\HomeWork -Bonus\obj\Debug\HomeWork -Bonus.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\HomeWork -Bonus\HomeWork -Bonus\bin\Debug\HomeWork -Bonus.exe
+c:\users\ba\documents\visual studio 2013\Projects\HomeWork -Bonus\HomeWork -Bonus\bin\Debug\HomeWork -Bonus.pdb
+c:\users\ba\documents\visual studio 2013\Projects\HomeWork -Bonus\HomeWork -Bonus\obj\Debug\HomeWork -Bonus.exe
+c:\users\ba\documents\visual studio 2013\Projects\HomeWork -Bonus\HomeWork -Bonus\obj\Debug\HomeWork -Bonus.pdb
+C:\Users\BA\Desktop\HomeWork -Bonus\HomeWork -Bonus\bin\Debug\HomeWork -Bonus.exe.config
+C:\Users\BA\Desktop\HomeWork -Bonus\HomeWork -Bonus\obj\Debug\HomeWork -Bonus.exe
+C:\Users\BA\Desktop\HomeWork -Bonus\HomeWork -Bonus\obj\Debug\HomeWork -Bonus.pdb

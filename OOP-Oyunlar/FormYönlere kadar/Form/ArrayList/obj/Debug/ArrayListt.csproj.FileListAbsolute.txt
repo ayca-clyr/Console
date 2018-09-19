@@ -1,0 +1,9 @@
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\obj\Debug\ArrayListt.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\obj\Debug\ArrayListt.Form1.resources
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\obj\Debug\ArrayListt.Properties.Resources.resources
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\obj\Debug\ArrayListt.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\ArrayList\obj\Debug\ArrayList.pdb

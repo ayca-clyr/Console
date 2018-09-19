@@ -1,0 +1,13 @@
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\bin\Debug\01_WFA.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\bin\Debug\01_WFA.exe
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\bin\Debug\01_WFA.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\obj\Debug\01_WindowsForms.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\obj\Debug\_01_WFA.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\obj\Debug\_01_WFA.Form2.resources
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\obj\Debug\_01_WFA.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\obj\Debug\01_WindowsForms.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\obj\Debug\01_WFA.exe
+c:\users\ba\documents\visual studio 2013\Projects\Form\01_WFA\obj\Debug\01_WFA.pdb
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\01_WFA\bin\Debug\01_WFA.exe.config
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\01_WFA\obj\Debug\01_WFA.exe
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\01_WFA\obj\Debug\01_WFA.pdb

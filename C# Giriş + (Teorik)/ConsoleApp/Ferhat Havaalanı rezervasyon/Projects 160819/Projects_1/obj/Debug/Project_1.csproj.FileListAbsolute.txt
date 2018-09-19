@@ -1,0 +1,6 @@
+C:\Users\Gunaydın\Downloads\ConsoleApp\ConsoleApp\Ferhat Havaalanı rezervasyon\Projects 160819\Projects_1\bin\Debug\Projects_1.exe.config
+C:\Users\Gunaydın\Downloads\ConsoleApp\ConsoleApp\Ferhat Havaalanı rezervasyon\Projects 160819\Projects_1\obj\Debug\Projects_1.exe
+C:\Users\Gunaydın\Downloads\ConsoleApp\ConsoleApp\Ferhat Havaalanı rezervasyon\Projects 160819\Projects_1\obj\Debug\Projects_1.pdb
+C:\Users\Gunaydın\Downloads\ConsoleApp\ConsoleApp\Ferhat Havaalanı rezervasyon\Projects 160819\Projects_1\bin\Debug\Projects_1.exe
+C:\Users\Gunaydın\Downloads\ConsoleApp\ConsoleApp\Ferhat Havaalanı rezervasyon\Projects 160819\Projects_1\bin\Debug\Projects_1.pdb
+C:\Users\Gunaydın\Downloads\ConsoleApp\ConsoleApp\Ferhat Havaalanı rezervasyon\Projects 160819\Projects_1\obj\Debug\Project_1.csprojResolveAssemblyReference.cache

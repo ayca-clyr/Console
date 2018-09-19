@@ -1,0 +1,6 @@
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_a\bin\Debug\Part_5_a.exe.config
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_a\bin\Debug\Part_5_a.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_a\bin\Debug\Part_5_a.pdb
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_a\obj\Debug\Part_5_a.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_a\obj\Debug\Part_5_a.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_a\obj\Debug\Part_5_a.pdb

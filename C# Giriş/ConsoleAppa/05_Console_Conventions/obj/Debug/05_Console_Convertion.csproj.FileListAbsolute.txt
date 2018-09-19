@@ -1,0 +1,12 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\05_Console_Conventions\bin\Debug\05_Console_Conventions.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\05_Console_Conventions\bin\Debug\05_Console_Conventions.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\05_Console_Conventions\bin\Debug\05_Console_Conventions.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\05_Console_Conventions\obj\Debug\05_Console_Conventions.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\05_Console_Conventions\obj\Debug\05_Console_Conventions.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\05_Console_Conventions\obj\Debug\05_Console_Convertion.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\05_Console_Conventions\bin\Debug\05_Console_Conventions.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\05_Console_Conventions\bin\Debug\05_Console_Conventions.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\05_Console_Conventions\bin\Debug\05_Console_Conventions.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\05_Console_Conventions\obj\Debug\05_Console_Convertion.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\05_Console_Conventions\obj\Debug\05_Console_Conventions.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\05_Console_Conventions\obj\Debug\05_Console_Conventions.pdb

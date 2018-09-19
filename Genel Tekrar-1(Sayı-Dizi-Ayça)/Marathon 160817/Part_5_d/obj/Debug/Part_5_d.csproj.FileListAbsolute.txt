@@ -1,0 +1,8 @@
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_d\bin\Debug\Part_5_d.exe.config
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_d\bin\Debug\Part_5_d.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_d\bin\Debug\Part_5_d.pdb
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_d\obj\Debug\Part_5_d.exe
+C:\Users\Ayça\Downloads\160817_Marathon\Marathon 160817\Part_5_d\obj\Debug\Part_5_d.pdb
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_5_d\bin\Debug\Part_5_d.exe.config
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_5_d\obj\Debug\Part_5_d.exe
+C:\Users\BA\Desktop\160817_Marathon\Marathon 160817\Part_5_d\obj\Debug\Part_5_d.pdb

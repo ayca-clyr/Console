@@ -1,0 +1,7 @@
+C:\Users\BURAK\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\Homeworkk.exe.config
+C:\Users\BURAK\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\Homeworkk.exe
+C:\Users\BURAK\Desktop\Homework\Homeworkk\Homeworkk\bin\Debug\Homeworkk.pdb
+C:\Users\BURAK\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\Homeworkk.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\Homeworkk.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\Homeworkk.exe
+C:\Users\BURAK\Desktop\Homework\Homeworkk\Homeworkk\obj\Debug\Homeworkk.pdb

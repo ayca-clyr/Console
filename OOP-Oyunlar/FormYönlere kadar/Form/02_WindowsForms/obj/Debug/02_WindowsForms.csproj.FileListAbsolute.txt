@@ -1,0 +1,12 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\bin\Debug\02_WindowsForms.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\bin\Debug\02_WindowsForms.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\bin\Debug\02_WindowsForms.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\obj\Debug\02_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\obj\Debug\_02_WindowsForms.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\obj\Debug\_02_WindowsForms.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\obj\Debug\02_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\obj\Debug\02_WindowsForms.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\02_WindowsForms\obj\Debug\02_WindowsForms.pdb
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\02_WindowsForms\bin\Debug\02_WindowsForms.exe.config
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\02_WindowsForms\obj\Debug\02_WindowsForms.exe
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\02_WindowsForms\obj\Debug\02_WindowsForms.pdb

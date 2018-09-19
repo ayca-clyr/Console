@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head> <!-- Script kısmını head kısmınada yazabilirsin.-->
+<body>
+    <script>
+        
+          //  ÖDEV (3'er örnek)
+
+          
+         //   SEARCH  // Indisi getiriyor.
+            
+            var str = "Visit W3Schools!";
+            var n = str.search("W3Schools");  //  (6)
+            
+            var str = "Mr. Blue has a blue house";  // Küçük-Büyük duyarlıdır.
+            var n = str.search("blue"); (15)
+
+            var str = "Mr. Blue has a blue house";
+            var n = str.search(/blue/i); // Baştaki harfi büyültüp ona göre aratıyor. (4)
+            
+        //   SPLİCE
+
+            var fruits = ["Banana", "Orange", "Apple", "Mango"];  
+            fruits.splice(2, 0, "Lemon", "Kiwi"); //2.indise elemanı "Lemon" ekle. 0 dediği için çıkartma yapma yanına Kiwiyi ekle (Banana,Orange,Lemon,Kiwi,Apple,Mango)
+
+            var fruits = ["Banana", "Orange", "Apple", "Mango"]; 
+            fruits.splice(2, 1, "Lemon", "Kiwi"); //2.indise elemanı "Lemon" ekle. Yanına Kiwi ekle 1 dediği için yanındaki "Apple" çıkarttı. (Banana,Orange,Lemon,Kiwi,Mango)
+
+            var fruits = ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
+            fruits.splice(2, 2); // Burdada 2 tane çıkartıyor "Apple,Mango" çıkıyor. (Banana,Orange,Kiwi)
+            
+        //    REPLACE
+
+            var str = "Visit Microsoft!";    // Microsoft'u kelime olarak W3Sc.. olarak değiştirdi  Visit W3Schools
+            var res = str.replace("Microsoft", "W3Schools");
+
+            var str = "Mr Blue has a blue house and a blue car";  // Tüm blue'ları red yaptı.  Mr Blue has a red house and a red car
+            var res = str.replace(/blue/g, "red");
+            
+            var str = "Mr Blue has a blue house and a blue car";  // Mr red has a red house and a red car
+            var res = str.replace(/blue/gi, "red");  // Byük blue'ları bile red yaptı.
+                        
+        //   SUBSTRING
+
+            var str = "Hello world!"; 
+            var res = str.substring(1, 4); //  1. indisden sonra 4 tane getir. Ama 4 dahil olmadığı için (ell) gelicek
+            
+            var str = "Hello world!"; 
+            var res = str.substring(2); // 2.indis ve sonrasını getir.  (llo world!)
+            
+            var str = "Hello world!";
+            var res = str.substring(-3);  // Böyle bir indis yok direk hepsini getiriyor.  (Hello world!)
+            
+         //   SUBSTR
+            
+            var str = "Hello world!";
+            var res = str.substr(1, 4);  // 1. indisden sonra 4 tane getir. (ello)
+
+            var str = "Hello world!";  //2. indisden sonraki hepsini getir.  (llo world!)
+            var res = str.substr(2);
+            
+            var str = "Hello world!";
+            var res = str.substr(11, 1);  // 11. indisden sonra 1 tane getir. (!)
+
+         //   TOUPPERCASE
+
+            var str = "Hello World!";  
+            var res = str.toUpperCase();// Hepsini Büyüttü.  (HELLO WORLD! )
+
+         //   TOLOWERCASE
+
+            var str = "Hello World!";  
+            var res = str.toLowerCase();// Hepsini Küçülttü. (hello world!)
+
+         //   CONCAT
+
+            var hege = ["Cecilie", "Lone"];     
+            var stale = ["Emil", "Tobias", "Linus"];
+            var children = hege.concat(stale); //  Çocuğu diyor oraya kadar olanları birleştiriyor join gibi. (Cecilie,Lone,Emil,Tobias,Linus)
+            
+            var hege = ["Cecilie", "Lone"];    
+            var stale = ["Emil", "Tobias", "Linus"];
+            var kai = ["Robin"];
+            var children = hege.concat(stale,kai); (Cecilie,Lone,Emil,Tobias,Linus,Robin)
+            
+           // CHARAT
+
+            var str = "HELLO WORLD";     
+            var res = str.charAt(0); // 0.indisi getiriyor.  (H)
+
+            var str = "HELLO WORLD";
+            var res = str.charAt(str.length-1);       // uzunluktan -1'i çıkarıp o indisdeki getiriyor. (D)
+            
+           // SPLIT
+
+            var str = "How are you doing today?";  // Boşlukları siliyor araya virgül ekleyerek yazıyor. (How,are,you,doing,today?)
+            var res = str.split(" ");
+
+            var str = "How are you doing today?";  
+            var res = str.split("");  // Her kelime için boşlukları virgül yapıyor.  (H,o,w, ,a,r,e, ,y,o,u, ,d,o,i,n,g, ,t,o,d,a,y,?)
+            
+            var str = "How are you doing today?";  
+            var res = str.split(" ",3); // 3 kelime için yapıyor. (How,are,you)
+            
+            var str = "How are you doing today?";  
+            var res = str.split("o");   // 'o' ları virgülle değiştiriyor. (H,w are y,u d,ing t,day?)
+
+          //  DATE.PARSE("March 22,2016")  // Kullanım Koşulları Aşağıdaki gibidir.
+
+            var d = new Date("03/25/2015");
+            var d = new Date("2015/03/25");
+            var d = new Date("Mar 25 2015"); //MMM DD YYYY
+            
+            var d = new Date("January 25 2015");
+            var d = new Date("Jan 25 2015");
+
+ 
+    </script>
+    
+</body>
+</html>

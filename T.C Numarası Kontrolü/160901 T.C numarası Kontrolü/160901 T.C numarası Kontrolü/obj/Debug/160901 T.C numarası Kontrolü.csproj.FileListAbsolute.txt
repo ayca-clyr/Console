@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\160901 T.C numarası Kontrolü\160901 T.C numarası Kontrolü\bin\Debug\160901 T.C numarası Kontrolü.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160901 T.C numarası Kontrolü\160901 T.C numarası Kontrolü\bin\Debug\160901 T.C numarası Kontrolü.exe
+c:\users\ba\documents\visual studio 2013\Projects\160901 T.C numarası Kontrolü\160901 T.C numarası Kontrolü\bin\Debug\160901 T.C numarası Kontrolü.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160901 T.C numarası Kontrolü\160901 T.C numarası Kontrolü\obj\Debug\160901 T.C numarası Kontrolü.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\160901 T.C numarası Kontrolü\160901 T.C numarası Kontrolü\obj\Debug\160901 T.C numarası Kontrolü.exe
+c:\users\ba\documents\visual studio 2013\Projects\160901 T.C numarası Kontrolü\160901 T.C numarası Kontrolü\obj\Debug\160901 T.C numarası Kontrolü.pdb

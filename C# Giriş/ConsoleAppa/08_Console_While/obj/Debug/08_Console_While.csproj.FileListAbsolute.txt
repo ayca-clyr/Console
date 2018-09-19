@@ -1,0 +1,12 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\08_Console_While\bin\Debug\08_Console_While.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\08_Console_While\bin\Debug\08_Console_While.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\08_Console_While\bin\Debug\08_Console_While.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\08_Console_While\obj\Debug\08_Console_While.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\08_Console_While\obj\Debug\08_Console_While.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\ConsoleAppa\08_Console_While\obj\Debug\08_Console_While.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\08_Console_While\bin\Debug\08_Console_While.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\08_Console_While\obj\Debug\08_Console_While.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\08_Console_While\obj\Debug\08_Console_While.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\08_Console_While\obj\Debug\08_Console_While.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\08_Console_While\bin\Debug\08_Console_While.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\08_Console_While\bin\Debug\08_Console_While.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ayça\Desktop\ConsoleAppa\Alıştırmalar1\bin\Debug\Alıştırmalar1.exe.config
+C:\Users\Ayça\Desktop\ConsoleAppa\Alıştırmalar1\bin\Debug\Alıştırmalar1.exe
+C:\Users\Ayça\Desktop\ConsoleAppa\Alıştırmalar1\bin\Debug\Alıştırmalar1.pdb
+C:\Users\Ayça\Desktop\ConsoleAppa\Alıştırmalar1\obj\Debug\Alıştırmalar1_ArrayFonksiyon.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\ConsoleAppa\Alıştırmalar1\obj\Debug\Alıştırmalar1.exe
+C:\Users\Ayça\Desktop\ConsoleAppa\Alıştırmalar1\obj\Debug\Alıştırmalar1.pdb

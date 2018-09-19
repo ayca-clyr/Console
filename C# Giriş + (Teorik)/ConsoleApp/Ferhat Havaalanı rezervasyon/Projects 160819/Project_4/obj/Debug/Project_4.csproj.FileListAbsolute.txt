@@ -1,0 +1,6 @@
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\Projects 160819\Project_4\bin\Debug\Project_4.exe.config
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\Projects 160819\Project_4\bin\Debug\Project_4.exe
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\Projects 160819\Project_4\bin\Debug\Project_4.pdb
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\Projects 160819\Project_4\obj\Debug\Project_4.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\Projects 160819\Project_4\obj\Debug\Project_4.exe
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\Projects 160819\Project_4\obj\Debug\Project_4.pdb

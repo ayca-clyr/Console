@@ -1,0 +1,20 @@
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\bin\Debug\Part2.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\bin\Debug\Part2.exe
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\bin\Debug\Part2.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\obj\Debug\Part2.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\obj\Debug\Part2.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\obj\Debug\Part2.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\obj\Debug\Part2.İndirmeEkrani.resources
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\obj\Debug\Part2.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\obj\Debug\Part2.exe
+c:\users\ba\documents\visual studio 2013\Projects\Kronometre_Oyunu\Part2\obj\Debug\Part2.pdb
+C:\Users\BA\Desktop\New folder\Part2\bin\Debug\Part2.exe.config
+C:\Users\BA\Desktop\New folder\Part2\obj\Debug\Part2.exe
+C:\Users\BA\Desktop\New folder\Part2\obj\Debug\Part2.pdb
+C:\Users\BA\Desktop\New folder\Part2\bin\Debug\Part2.exe
+C:\Users\BA\Desktop\New folder\Part2\bin\Debug\Part2.pdb
+C:\Users\BA\Desktop\New folder\Part2\obj\Debug\Part2.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\New folder\Part2\obj\Debug\Part2.Form1.resources
+C:\Users\BA\Desktop\New folder\Part2\obj\Debug\Part2.Properties.Resources.resources
+C:\Users\BA\Desktop\New folder\Part2\obj\Debug\Part2.İndirmeEkrani.resources
+C:\Users\BA\Desktop\New folder\Part2\obj\Debug\Part2.csproj.GenerateResource.Cache

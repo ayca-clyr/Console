@@ -1,0 +1,81 @@
+1 Dizi elemanlarýný yan yana yazma
+Dizi içerisindeki elemanlar 45 – 928 – 78 – 4 – 1007 – 83 þeklinde yan yana yazdýrýlýr. Elemanlar arasýnda mutlaka bir ayraç karakter olmalýdýr. Ýlk elemandan önce veya son elemandan sonra ekranda – (veya diðer bir ayraç) karakterinin olmamasý gerekiyor.
+	
+	int[] dizi = { 45, 928, 78, 4, 1007, 83 };
+	int sayac = 0;
+            while (sayac < dizi.Length)
+		{
+                if (sayac != dizi.Length - 1)
+                {
+                    Console.Write(dizi[sayac] + "-");
+                }
+                else
+                {
+                    Console.Write(dizi[sayac]);
+                }
+                sayac++;
+            }
+            Console.ReadLine();
+
+2. Dizi elemanlarýný iki kolonda yazdýrma
+Dördüncü uygulamada dizi elemanlarý her satýrda iki eleman, arada bir sekme boþluk olacak þekilde ekrana yazdýrýlýr.
+ÖRNEK:
+**1**      **2**
+dizi[0]    dizi[1]
+dizi[2]    dizi[3]
+
+	int[] dizi = { 25, 66, 87, 99, 63, 88, 15, 20 };
+	int sayac = 0;
+            while (sayac < dizi.Length)
+            {
+                if (sayac % 2 == 0)
+                {
+                    Console.Write(dizi[sayac]+" ");
+                }
+                else
+                {
+                    Console.WriteLine(dizi[sayac]);
+                }
+                sayac++;
+            }
+            Console.ReadLine();
+
+3. Dizi elemanlarýný ikinci bir dizi yardýmýyla ters sýralayan bir algoritma geliþtiriniz.
+            int[] dizi = { 56, 69, 78, 20 };
+            int[] dizi2 = new int[4];
+            int sayac = 0;
+            int sayac2 = 0;
+            while (sayac < dizi.Length)
+            {
+                Console.WriteLine(dizi[sayac]);
+                sayac++;
+            }
+            Console.WriteLine("----dizinin ters sýralanmýþ hali----");
+            sayac = dizi.Length-1;
+            while (sayac >= 0)
+            {
+                dizi2[sayac2] = dizi[sayac];
+                Console.WriteLine(dizi2[sayac2]);
+                sayac2++;
+                sayac--;
+
+            }
+            Console.Read();
+            
+4. Dizi elemanlarýný ikinci bir dizi olmadan kendi üzerine ters sýralayan bir algoritma geliþtiriniz.
+            string[]players={"Tsubasa","Misaki","Hyuga","Misugi","Wakabayashi"};
+            int counter=0;
+            int halfLength=players.Length/2;
+            while(counter<halfLength){
+                string name=players[counter];
+                players[counter]=players[players.Length-1-counter];
+                players[players.Length-1-counter]=name;
+                counter++;
+            }
+            counter = 0;
+            while (counter < players.Length)
+            {
+                Console.WriteLine(players[counter]);
+                counter++;
+            }
+            Console.Read();

@@ -1,0 +1,6 @@
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methods\bin\Debug\10_Methods.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methods\bin\Debug\10_Methods.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methods\bin\Debug\10_Methods.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methods\obj\Debug\10_Methods_01.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methods\obj\Debug\10_Methods.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methods\obj\Debug\10_Methods.pdb

@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\bin\Debug\YonTuslari.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\bin\Debug\YonTuslari.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\bin\Debug\YonTuslari.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\obj\Debug\YonTuslari.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\obj\Debug\YonTuslari.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\obj\Debug\YonTuslari.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\obj\Debug\YonTuslari.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\obj\Debug\YonTuslari.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\YonTuslari\obj\Debug\YonTuslari.pdb

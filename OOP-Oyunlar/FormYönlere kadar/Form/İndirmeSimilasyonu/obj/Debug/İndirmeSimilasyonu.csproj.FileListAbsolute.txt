@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\bin\Debug\İndirmeSimilasyonu.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\bin\Debug\İndirmeSimilasyonu.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\obj\Debug\İndirmeSimilasyonu.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\obj\Debug\İndirmeSimilasyonu.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\obj\Debug\İndirmeSimilasyonu.Form2.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\obj\Debug\İndirmeSimilasyonu.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\obj\Debug\İndirmeSimilasyonu.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\obj\Debug\İndirmeSimilasyonu.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Form\İndirmeSimilasyonu\obj\Debug\İndirmeSimilasyonu.pdb

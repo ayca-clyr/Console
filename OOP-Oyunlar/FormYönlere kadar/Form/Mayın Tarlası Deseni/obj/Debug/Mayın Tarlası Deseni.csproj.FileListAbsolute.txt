@@ -1,0 +1,9 @@
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\bin\Debug\Mayın Tarlası Deseni.exe.config
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\bin\Debug\Mayın Tarlası Deseni.exe
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\bin\Debug\Mayın Tarlası Deseni.pdb
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\obj\Debug\Mayın Tarlası Deseni.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\obj\Debug\Mayın_Tarlası_Deseni.Form1.resources
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\obj\Debug\Mayın_Tarlası_Deseni.Properties.Resources.resources
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\obj\Debug\Mayın Tarlası Deseni.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\obj\Debug\Mayın Tarlası Deseni.exe
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\Mayın Tarlası Deseni\obj\Debug\Mayın Tarlası Deseni.pdb

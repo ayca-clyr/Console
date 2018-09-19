@@ -1,0 +1,6 @@
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methos_00\bin\Debug\10_Methos_00.exe.config
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methos_00\bin\Debug\10_Methos_00.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methos_00\bin\Debug\10_Methos_00.pdb
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methos_00\obj\Debug\10_Methos_00.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methos_00\obj\Debug\10_Methos_00.exe
+C:\Users\BA\Desktop\c#\ConsoleAppa\ConsoleAppa\10_Methos_00\obj\Debug\10_Methos_00.pdb

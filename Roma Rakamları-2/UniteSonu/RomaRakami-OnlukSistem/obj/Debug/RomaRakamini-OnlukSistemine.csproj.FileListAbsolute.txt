@@ -1,0 +1,6 @@
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\RomaRakami-OnlukSistem\bin\Debug\RomaRakami-OnlukSistem.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\RomaRakami-OnlukSistem\bin\Debug\RomaRakami-OnlukSistem.exe
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\RomaRakami-OnlukSistem\bin\Debug\RomaRakami-OnlukSistem.pdb
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\RomaRakami-OnlukSistem\obj\Debug\RomaRakami-OnlukSistem.exe
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\RomaRakami-OnlukSistem\obj\Debug\RomaRakami-OnlukSistem.pdb
+c:\users\ba\documents\visual studio 2013\Projects\UniteSonu\RomaRakami-OnlukSistem\obj\Debug\RomaRakamini-OnlukSistemine.csprojResolveAssemblyReference.cache

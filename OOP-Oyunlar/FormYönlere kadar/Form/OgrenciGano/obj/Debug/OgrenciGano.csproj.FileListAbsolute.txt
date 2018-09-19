@@ -1,0 +1,10 @@
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\bin\Debug\OgrenciGano.exe.config
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\bin\Debug\OgrenciGano.exe
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\bin\Debug\OgrenciGano.pdb
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\obj\Debug\OgrenciGano.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\obj\Debug\OgrenciGano.Form1.resources
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\obj\Debug\OgrenciGano.Properties.Resources.resources
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\obj\Debug\OgrenciGano.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\obj\Debug\OgrenciGano.exe
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\obj\Debug\OgrenciGano.pdb
+C:\Users\BA\Downloads\FormYönlere kadar\FormYönlere kadar\Form\OgrenciGano\obj\Debug\OgrenciGano.Form2.resources

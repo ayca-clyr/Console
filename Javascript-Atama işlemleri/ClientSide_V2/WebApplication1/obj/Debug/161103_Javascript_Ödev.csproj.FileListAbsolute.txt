@@ -1,0 +1,6 @@
+C:\Users\Ayça\Desktop\Bilge Adam\161103_+Ödev_ClientSide(Javascript)\ClientSide_V2\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Ayça\Desktop\Bilge Adam\161103_+Ödev_ClientSide(Javascript)\ClientSide_V2\WebApplication1\bin\WebApplication1.dll
+C:\Users\Ayça\Desktop\Bilge Adam\161103_+Ödev_ClientSide(Javascript)\ClientSide_V2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\161103_+Ödev_ClientSide(Javascript)\ClientSide_V2\WebApplication1\obj\Debug\161103_Javascript_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\161103_+Ödev_ClientSide(Javascript)\ClientSide_V2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Ayça\Desktop\Bilge Adam\161103_+Ödev_ClientSide(Javascript)\ClientSide_V2\WebApplication1\obj\Debug\WebApplication1.pdb

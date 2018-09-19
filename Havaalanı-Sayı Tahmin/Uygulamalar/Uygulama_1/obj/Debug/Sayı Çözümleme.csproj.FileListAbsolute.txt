@@ -1,0 +1,6 @@
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_1\bin\Debug\Uygulama_1.exe.config
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_1\obj\Debug\Uygulama_1.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_1\obj\Debug\Uygulama_1.pdb
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_1\bin\Debug\Uygulama_1.exe
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_1\bin\Debug\Uygulama_1.pdb
+C:\Users\Ayça\Desktop\Uygulamalar\Uygulamalar\Uygulama_1\obj\Debug\Sayı Çözümleme.csprojResolveAssemblyReference.cache
